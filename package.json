@@ -1,1 +1,10 @@
-Режим вывода команд на экран (ECHO) включен.
+{
+    "name": "n8n-render",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "n8n start"
+    },
+    "dependencies": {
+      "n8n": "^1.0.0"
+    }
+  }
